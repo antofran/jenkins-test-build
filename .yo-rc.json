@@ -1,0 +1,6 @@
+{
+  "generator-angular-lazy": {
+    "appName": "jenkins-test-build",
+    "i18n": false
+  }
+}
